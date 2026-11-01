@@ -2,38 +2,38 @@
   {
     "title": "Wedding Jaipur",
     "category": "wedding",
-    "thumbnail": "images/events/wedding-jaipur/thumbnail.jpg",
+    "thumbnail": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-jaipur/thumbnail.jpg",
     "media": [
       {
         "type": "image",
-        "url": "images/events/wedding-jaipur/1.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-jaipur/1.jpg"
       },
       {
         "type": "image",
-        "url": "images/events/wedding-jaipur/2.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-jaipur/2.jpg"
       },
       {
         "type": "image",
-        "url": "images/events/wedding-jaipur/3.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-jaipur/3.jpg"
       },
       {
         "type": "image",
-        "url": "images/events/wedding-jaipur/4.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-jaipur/4.jpg"
       }
     ]
   },
   {
     "title": "Wedding Bangalore",
     "category": "wedding",
-    "thumbnail": "images/events/wedding-bangalore/thumbnail.jpg",
+    "thumbnail": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-bangalore/thumbnail.jpg",
     "media": [
       {
         "type": "image",
-        "url": "images/events/wedding-bangalore/1.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-bangalore/1.jpg"
       },
       {
         "type": "video",
-        "url": "images/events/wedding-bangalore/weddingvideo.mp4"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/wedding-bangalore/weddingvideo.mp4"
       }
     ]
   },
@@ -44,19 +44,19 @@
     "media": [
       {
         "type": "image",
-        "url": "images/events/sbi-corporate/1.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/sbi-corporate/thumbnail.jpg"
       },
       {
         "type": "image",
-        "url": "images/events/sbi-corporate/2.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/sbi-corporate/2.jpg"
       },
       {
         "type": "image",
-        "url": "images/events/sbi-corporate/3.jpg"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/sbi-corporate/3.jpg"
       },
       {
         "type": "video",
-        "url": "images/events/sbi-corporate/1.mp4"
+        "url": "https://pub-8ccc74117a6645f09150e5883edda90f.r2.dev/events/sbi-corporate/1.mp4"
       }
     ]
   }
